@@ -27,7 +27,8 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-    color: #d9ff31
+   /* color: #d9ff31 */
+    color: #ffffff;
 }
 
 h1,
