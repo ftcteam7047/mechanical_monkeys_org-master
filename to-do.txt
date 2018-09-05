@@ -1,0 +1,11 @@
+
+
+x Align bullet points on opening text blocks.
+
+x Make monkey icon smaller
+
+x add social media icons under first text block.
+
+. try to add image grid for outreach images. 
+
+x make FIRST logo responsive to media size. 
